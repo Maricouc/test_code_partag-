@@ -1,3 +1,6 @@
 print("hello world")
 print("modif")
 print("salut")
+
+user = "M&R user"
+print = (f"hello from {user}!")
